@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/negosyo-repo/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/negosyo-repo/static/js/main.04ad769d.chunk.js",
+    "main.js.map": "/negosyo-repo/static/js/main.04ad769d.chunk.js.map",
+    "runtime-main.js": "/negosyo-repo/static/js/runtime-main.9199f6a7.js",
+    "runtime-main.js.map": "/negosyo-repo/static/js/runtime-main.9199f6a7.js.map",
+    "static/js/2.ee5a6f26.chunk.js": "/negosyo-repo/static/js/2.ee5a6f26.chunk.js",
+    "static/js/2.ee5a6f26.chunk.js.map": "/negosyo-repo/static/js/2.ee5a6f26.chunk.js.map",
+    "static/js/3.852213d5.chunk.js": "/negosyo-repo/static/js/3.852213d5.chunk.js",
+    "static/js/3.852213d5.chunk.js.map": "/negosyo-repo/static/js/3.852213d5.chunk.js.map",
+    "index.html": "/negosyo-repo/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/negosyo-repo/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ee5a6f26.chunk.js.LICENSE.txt": "/negosyo-repo/static/js/2.ee5a6f26.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/negosyo-repo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9199f6a7.js",
+    "static/js/2.ee5a6f26.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.04ad769d.chunk.js"
+  ]
+}
