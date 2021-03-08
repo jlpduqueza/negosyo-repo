@@ -4,6 +4,7 @@ import 'firebase/auth';
 const app = firebase.initializeApp({
 	apiKey: 'AIzaSyC0KkT4PYpIHjRtzc4h3KATtoSbW1qaksk',
 	authDomain: 'web-negosyo.firebaseapp.com',
+	databaseURL: 'https://web-negosyo-default-rtdb.firebaseio.com/',
 	projectId: 'web-negosyo',
 	storageBucket: 'web-negosyo.appspot.com',
 	messagingSenderId: '548307081250',
